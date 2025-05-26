@@ -11,7 +11,8 @@
 	<groupId>br.com</groupId>
 	<artifactId>medvoll</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Medvoll</name>
+    <packaging>pom</packaging>
+    <name>Medvoll</name>
 	<description>Projeto para praticar conceitos de API REST - MedVoll</description>
 	<url/>
 	<licenses>
@@ -20,7 +21,7 @@
 	<developers>
 		<developer/>
 	</developers>
-	<scm>
+    <scm>
 		<connection/>
 		<developerConnection/>
 		<tag/>
